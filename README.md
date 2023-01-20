@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jishan010
+- 👋 Hi, I’m Jishan Ansari
 - 👀 I’m interested in mobile development such as android , flutter 
 - 🌱 I’m currently learning jetpack compose
 - 💞️ I’m looking to collaborate on ...
